@@ -12,6 +12,7 @@
   <h3>contact information</h3>
     <li>name xamda adam jama</1i>
     <li>email-xamdaadam123@gmail.com</1i>
+    <li>GitHup-dajiyaayy/porfolio-website-</li>
     <li>phone-+25269919647</1i>
     <li>TISQAAD COLLEGE SCIENCE</1i>
   <h4>my skills.</h4>
